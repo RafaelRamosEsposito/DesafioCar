@@ -1,0 +1,56 @@
+[
+    {        
+        "nome": "Jetta",
+        "montadora": "Volkswagen",
+        "preco": 144000,
+        "tipo": "Sedan"
+    },
+    {
+        "nome": "Pollo",
+        "montadora": "Volkswagen",
+        "preco": 70000,
+        "tipo": "Hatch"
+    },
+    {
+        "nome": "T-Cross",
+        "montadora": "Volkswagen",
+        "preco": 123000,
+        "tipo": "SUV"
+    },
+    {
+        "nome": "Tiguan R-line",
+        "montadora": "Volkswagen",
+        "preco": 146000,
+        "tipo": "SUV"
+    },
+    {
+        "nome": "Civic",
+        "montadora": "Honda",
+        "preco": 115000,
+        "tipo": "Sedan"
+    },
+    {
+        "nome": "Corolla",
+        "montadora": "Toyota",
+        "preco": 110000,
+        "tipo": "Sedan"
+    },
+    {
+        "nome": "Corolla Cross",
+        "montadora": "Toyota",
+        "preco": 184000,
+        "tipo": "SUV"
+    },
+    {
+        "nome": "Compass",
+        "montadora": "Jeep",
+        "preco": 132000,
+        "tipo": "SUV"
+    },
+    {
+        "nome": "Golf G TI",
+        "montadora": "Volkswagen",
+        "preco": 138000,
+        "tipo": "Hatch"
+    }
+]

@@ -1,0 +1,105 @@
+h2 {
+    text-align: center;
+}
+
+h4 {
+    display: inline;
+}
+
+label {
+    font-weight: bold;
+}
+
+.boxes {
+    position: relative;    
+    margin: 30px;    
+    width: 60%;
+    float: left;
+}
+
+.listaSelecao {    
+    margin: 30px;
+    float: right;
+    width: 30%;        
+}
+
+.listaSelecao .container {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #CCC;
+    height: 400px;
+    overflow-y: scroll;        
+    padding-right: 30px;
+}
+
+.backgroundCar {
+    background-image: url(../car.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.listaSelecao div h5{
+    text-align: center;
+    margin-top: 250px;
+}
+
+.box {
+    float: left;
+    width: 20%;
+    border-width: 1px;
+    border-color: #bbb;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 10px;    
+}
+
+.box.blue {
+    width: 100%;
+    border-color: #99ccff;
+}
+
+.box-title { 
+    width: 100%;
+    background-color: #CCC;    
+    margin: initial;    
+}
+
+.box-title.blue {
+    background-color: #99ccff;    
+}
+
+.box-title p {
+    width: 50%;    
+    display: block;
+    font-weight: bold;    
+    float: left;    
+    margin: 10px 0px 10px 5px;    
+}
+
+.box-title button {
+    float: right;
+    background: none;
+    border: none;  
+    margin-top: 5px;    
+}
+
+.box-title button :hover { 
+    cursor: pointer;
+}
+
+.box-body {
+    width: 100%;
+    clear: both;   
+    border-style: none;
+    margin: initial;
+    padding: 5px;
+    text-align: center;    
+}
+
+.box-body.blue p {
+    position: relative;
+    float: left;
+    width: 50%;
+}
+
